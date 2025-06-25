@@ -2,50 +2,98 @@
 
 This is a public showcase of **Doohickey**, a startup project I co-founded. The original repository is private, and this version is intended to highlight my work and contributions for portfolio and professional reference purposes.
 
+---
+
+## 🎥 Product Demo Video
+
+Watch the Doohickey demo to see the product in action:
+
+[![Watch the video](https://img.youtube.com/vi/ZfO_OgOy0gA/0.jpg)](https://www.youtube.com/watch?v=ZfO_OgOy0gA)
+
+---
+
 ## 💡 What is Doohickey?
 
-Doohickey is a peer-to-peer platform that enables people to rent out their unused items, services, and spaces. It was built to solve a common problem: people often buy things they only need temporarily, which ends up costing money, taking up space, and going unused. Doohickey allows users to generate income and save space by renting out these underutilized assets — and rent what they need from others, affordably and flexibly.
+**Doohickey** is a peer-to-peer platform that helps people rent out and borrow unused items, services, and spaces. It addresses the everyday problem of owning things you only need temporarily — by turning underutilized assets into income opportunities while reducing waste and clutter.
 
-## 🧠 My Role
+The platform enables users to:
+- Post and track their unused items
+- Rent from others affordably
+- Use AI to auto-fill listings
+- Split rental costs with friends
+- Create group rentals and item subscriptions
+- Track inventory and manage personal belongings
 
-I was the **CEO and co-founder** of Doohickey. While I contributed to the frontend development in React, my primary responsibilities included:
+---
 
-- Defining the **product vision**, feature set, and overall functionality
-- Leading the **UX and UI design**, including user flows and visual design
-- Creating all **branding and product visuals**
-- Writing the full **business plan** and **go-to-market strategy**
-- Managing **marketing**, **user testing**, and **customer engagement**
-- Pitching to investors, including applying to programs like **MaRS Venture Services**
+## 👨‍💼 My Role
 
-## 🌟 Key Features of the Platform
+I was the **CEO and co-founder** of Doohickey. While I contributed to the React-based frontend, my core responsibilities included:
 
-- AI-powered item listings (auto-generates name, description, pricing from a photo)
-- Group rentals and cost splitting via digital wallet
-- Inventory management for personal or commercial use
-- Borrower-to-borrower item transfers
-- Safety measures: delivery tracking, deposit protections, confirmation photos
+- Defining the **product vision**, roadmap, and feature set  
+- Leading the entire **UX and UI design** process  
+- Creating the **brand identity** and all visual assets  
+- Writing the **business plan** and **go-to-market strategy**  
+- Running **user research**, **bug testing**, and **investor pitches**  
+- Marketing and community outreach  
+- Coordinating the initial alpha and launch efforts
 
-## 🚀 Our Journey
+---
 
-- Co-founded the company in **July 2017**
-- Alpha launched in **October 2017** (12 users onboarded for testing)
-- Final release launched in **September 2019**, growing to **45 users** and over **100 items posted**
-- Built and tested across Durham and Peterborough markets, targeting students, immigrants, and underserved communities
+## 🌟 Key Features
+
+- **AI-powered listings**: Auto-detects item name, description, and price from a user’s photo  
+- **Peer-to-peer rentals**: Lend and borrow items easily for any timeframe  
+- **Inventory manager**: Track and organize all personal items  
+- **Group and split rentals**: Share costs among friends using a digital wallet  
+- **Rental pass-along**: Items can move from borrower to borrower without involving the original owner  
+- **Safety-first UX**: Includes handoff confirmation photos and deposits for late or damaged items  
+
+---
+
+## 🚀 Project Timeline
+
+- 🏁 **July 2017** – Company founded  
+- 🧪 **October 2017** – Alpha launched with 12 early testers  
+- 🔁 **2018–2019** – Multiple UX overhauls, AI prototyping, feature development, and user testing  
+- 🚀 **September 2019** – Public release with 45 users and 100+ item listings  
+
+---
+
+## 📈 Business Model
+
+Doohickey generates revenue by:
+- Charging lenders a **12.5% fee** per rental  
+- Charging **9.5% on wallet transfers**  
+- Offering **sponsored listings**  
+- Planning future features like **subscriptions**, **event-based rentals**, and **analytics packages** for manufacturers  
+
+---
 
 ## 🛠️ Tech Stack
 
-- Frontend: React (contributed)
-- Design: Figma, Adobe Creative Suite
-- Strategy & PM: Business Model Canvas, custom GTM frameworks
+- **Frontend:** React (I contributed)  
+- **Design:** Figma, Adobe Creative Suite  
+- **PM & Strategy:** Business Model Canvas, Custom GTM frameworks  
+
+---
 
 ## 📁 About this Repo
 
-This is a static version of the private repo for demonstration purposes. It includes my actual commit history and work from the original project. No sensitive or proprietary data is included.
+This is a static public mirror of the private Doohickey repo. It contains my commit history and contributions as co-founder and product owner. The original private repo is not maintained, and no sensitive data is included here.
+
+> 📌 You can view my commits [here](https://github.com/agilancan/Doohickey-Showcase/commits?author=agilancan)
+
+---
 
 ## 🛑 Disclaimer
 
-This repository is no longer under active development. It is a snapshot for reference and hiring purposes only.
+This project is no longer under active development. This repo exists to preserve my contributions and share them with prospective employers or collaborators.
+
+---
 
 ## 🔗 Contact
 
-If you’d like to know more about the Doohickey project or my role in it, feel free to reach out.
+- 🌐 Portfolio: [https://agilan.io/](https://agilan.io/)  
+- 🧑‍💼 LinkedIn: [Agilan Sivakumaran](https://www.linkedin.com/in/agilan-sivakumaran/)  
+- 💻 GitHub: [agilancan](https://github.com/agilancan)
