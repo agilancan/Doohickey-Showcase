@@ -1,6 +1,6 @@
 # Doohickey-Showcase
 
-This is a public showcase of **Doohickey.ai**, the flagship marketplace platform I co-founded. The original repository is private, and this version is intended to highlight my work and contributions for portfolio and professional reference purposes.
+This is a public showcase of **Doohickey.ai**, the flagship marketplace platform I co-founded. While the original repository is now publicly available [here](https://github.com/aj7774/Doohickey), this version highlights **my individual work and contributions** for portfolio and professional reference purposes.
 
 > 📱 Doohickey.ai was built as a **cross-platform marketplace** available on web, iOS, and Android.  
 > 🌐 It was part of the broader **Doohickey company**, which also worked on other software initiatives.
@@ -86,7 +86,10 @@ Revenue was projected through:
 
 ## 📁 About this Repo
 
-This is a public mirror of the private repo for **Doohickey.ai**. It reflects my real commit history and contributions from the original project. No sensitive or proprietary code is included.
+This is a personal showcase of **my work** on Doohickey.ai. For the full original codebase, you can visit the now-public repo:  
+🔗 [Original Repository → github.com/aj7774/Doohickey](https://github.com/aj7774/Doohickey)
+
+This version exists to highlight **my individual contributions**, commit history, and portfolio alignment. No sensitive or proprietary keys are included.
 
 > 📌 [View my commits on GitHub →](https://github.com/agilancan/Doohickey-Showcase/commits?author=agilancan)
 
